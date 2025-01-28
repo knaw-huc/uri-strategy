@@ -35,11 +35,14 @@ and instances of {subtype} are used to indicate:
 | 'nameofdataset'	| the name of a dataset, only if type == resource |
 | ...	            | ...                                             |
 
-Conventions
-Properties are written in lowerCamelCase.
-Classes are written in UpperCamelCase.
+### Conventions
+Properties are written in `lowerCamelCase`.
+
+Classes are written in `UpperCamelCase`.
+
 Dataset specific terms can be retained by using https://iisg.amsterdam/resource/nameofdataset/vocab/myterm not via https://iisg.amsterdam/vocab/nameofdataset/myterm. Also, datasets are so far mainly described using their original column names ('headers'), and are not replaced by the subtypes above. So dataset 'mydata', with column 'municipality' and value 'Amsterdam' tends to be represented as https://iisg.amsterdam/resource/mydata/municipality/Amsterdam.
-Examples
+
+### Examples
 https://iisg.amsterdam/id/item/1000000
 https://iisg.amsterdam/id/collection/ARCH00293
 https://iisg.amsterdam/id/dataset/101 # dataverse metadata
