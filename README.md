@@ -44,15 +44,23 @@ Dataset specific terms can be retained by using https://iisg.amsterdam/resource/
 
 ### Examples
 https://iisg.amsterdam/id/item/1000000
+
 https://iisg.amsterdam/id/collection/ARCH00293
-https://iisg.amsterdam/id/dataset/101 # dataverse metadata
-https://iisg.amsterdam/id/file/dataverse-101-1 #dataverse metadata
-https://iisg.amsterdam/id/mydataset/mycolumname/myvalue # description of dataset contents (values)
+
+https://iisg.amsterdam/id/dataset/101 // dataverse metadata
+
+https://iisg.amsterdam/id/file/dataverse-101-1 // dataverse metadata
+
+https://iisg.amsterdam/id/mydataset/mycolumname/myvalue // description of dataset contents (values)
 
 https://iisg.amsterdam/authority/event/(NL-AmISG)2025191
+
 https://iisg.amsterdam/authority/period/2006369
+
 https://iisg.amsterdam/authority/person/(DE-588)118578537
+
 https://iisg.amsterdam/authority/organization/(DE-588)1065494610
 
 https://iisg.amsterdam/vocab/CollectionShape
+
 https://iisg.amsterdam/vocab/Postcard
